@@ -1,0 +1,59 @@
+h1{
+    font-size: 5vh;
+    font-weight: bold;
+}
+
+body{
+    background-color: #000;
+}
+
+.second{
+    display: none;
+}
+
+.container{
+    min-height: 9vh;
+    text-align: center;
+}
+
+.spacer{
+    min-height: 5vh;
+}
+
+.numscont{
+    min-height: 17vh;
+    text-align: center;
+}
+
+.btn{
+    height: 10vh;
+    width: 10vh;
+    font-size: 7vh;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 20px;
+	background-color: #fff;
+}
+
+.ext-img{
+    height: 7vh;
+    width: 7vh;
+}
+
+.text{
+    font-size: 5vh;
+}
+
+.white{
+    color: #fff;
+}
+
+/*.flex{
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-ms-flex-pack: center;
+	justify-content: center;
+}*/
+

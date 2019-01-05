@@ -1,0 +1,230 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum">
+    <link rel="stylesheet" href="animate.css">
+    <link rel="stylesheet" href="bulma\css\bulma.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="home">
+
+        <div class="spacer"></div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column">
+                    <button class="btn power">
+                        <i class="fa fa-power-off"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn tvinput">
+                        <svg class="ext-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 3.01H3c-1.1 0-2 .9-2 2V9h2V4.99h18v14.03H3V15H1v4.01c0 1.1.9 1.98 2 1.98h18c1.1 0 2-.88 2-1.98v-14c0-1.11-.9-2-2-2zM11 16l4-4-4-4v3H1v2h10v3z"/></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column">
+                </div>
+                <div class="column">
+                    <button class="btn up">
+                        <i class="fa fa-chevron-up"></i>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn back">
+                        <!--<i class="fa fa-undo"></i>-->
+                        <img src="return-arrow.svg">
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn left">
+                        <i class="fa fa-chevron-left"></i>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn ok">
+                        <h1 class="text">OK</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn right">
+                        <i class="fa fa-chevron-right"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn down">
+                        <i class="fa fa-chevron-down"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="spacer"></div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <h1 class="white">VOL</h1>
+                </div>
+                <div class="column"></div>
+                <div class="column">
+                    <h1 class="white">CHAN</h1>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn volup">
+                        <i class="fa fa-chevron-up"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn chanup">
+                        <i class="fa fa-chevron-up"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn voldown">
+                        <i class="fa fa-chevron-down"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn chandown">
+                        <i class="fa fa-chevron-down"></i>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="columns">
+                <div class="column">
+                    <button class="btn pad">
+                        <img src="https://d30y9cdsu7xlg0.cloudfront.net/png/119361-200.png">
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="second">
+        <div class="spacer"></div>
+        <div class="numscont">
+            <div class="columns is-mobile">
+                <div class="column">
+                    <button class="btn return">
+                        <i class="fa fa-times red"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="spacer"></div>
+        <div class="numscont">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn one">
+                        <h1>1</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn two">
+                        <h1>2</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn three">
+                        <h1>3</h1>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="numscont">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn four">
+                        <h1>4</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn five">
+                        <h1>5</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn six">
+                        <h1>6</h1>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="numscont">
+            <div class="columns is-mobile">
+                <div class="column"></div>
+                <div class="column">
+                    <button class="btn seven">
+                        <h1>7</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn eight">
+                        <h1>8</h1>
+                    </button>
+                </div>
+                <div class="column">
+                    <button class="btn nine">
+                        <h1>9</h1>
+                    </button>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+        <div class="numscont">
+            <div class="columns">
+                <div class="column">
+                    <button class="btn zero">
+                        <h1>0</h1>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
